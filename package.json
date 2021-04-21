@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "npx card presentation",
   "main": "index.js",
+  "bin": {
+    "laetig": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
