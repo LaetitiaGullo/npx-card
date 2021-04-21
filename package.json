@@ -1,6 +1,6 @@
 {
   "name": "laetig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "npx card presentation",
   "main": "index.js",
   "bin": {
