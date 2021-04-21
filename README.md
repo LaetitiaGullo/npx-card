@@ -1,7 +1,7 @@
 # Node.JS : npx card
 
 ### URL :
-https://www.npmjs.com/package/@laeti-g
+https://www.npmjs.com/package/laetig
 
 ### Date of realization :
 April 2021
@@ -10,7 +10,7 @@ April 2021
 Completed project
 
 ### Type of project :
-Learning.   
+Learning
 
 ### Context :
 Project carried out as part of the "Junior web developer" training [@ BeCode](https://becode.org/)
